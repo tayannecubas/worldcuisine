@@ -1,0 +1,22 @@
+body{
+    background-color: #1a0808;
+    background-image: url(img/cozinha.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+
+ h1{
+    
+    font-family: Rozha One;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: -60px;
+    height: 30px;
+    
+    color: #CFB0B0;
+ }   
+
+ a{
+     
+ }
